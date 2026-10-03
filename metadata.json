@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Royale - Real-Time Multiplayer & Live Admin Control",
+  "description": "Production real-time multiplayer Ludo web application with Socket.IO, server-authoritative game state, and live multi-device admin dice control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
